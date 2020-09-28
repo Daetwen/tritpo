@@ -27,8 +27,7 @@ BaranovichiBus - мобильное приложения для смартфон
 Данный проект является в каком-то роде аналогом ["Расписание автобусов"](https://play.google.com/store/apps/details?id=by.konkor.busschedule) и ["Автобусы Барановичи - расписание движения"](https://play.google.com/store/apps/details?id=com.dmitrytavpeko.p.barbuses)
 ### 2. Требования пользователя <a name="2"></a>
 #### 2.1. Программные интерфейсы <a name="2.1"></a>
-1) WinForms - для создания пользовательского интерфейса.</a>
-2) .Net - для реализации сетевого взаимодействия.</a>
+1) Android SDK.
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
 Графический интерфейс проекта представлен с помощью мокапов [Bus](https://github.com/Daetwen/tritpo/blob/master/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%BC%D0%B0%D0%BA%D0%B5%D1%82/Bus.pdf) и [BusStop](https://github.com/Daetwen/tritpo/blob/master/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%BC%D0%B0%D0%BA%D0%B5%D1%82/BusStop.pdf).
 Отдельного рассмотрения требует главное окно:
