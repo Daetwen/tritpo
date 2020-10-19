@@ -5,7 +5,8 @@
   
 ### 1. Обновить <a name="1"></a>
 При нажатии на данную кнопку предоставляется возможность обновить расписание:</a>
-[https://github.com/Daetwen/tritpo/blob/master/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/UML/Activity/Activity%20%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png]
+
+![Обновить](https://github.com/Daetwen/tritpo/blob/master/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/UML/Activity/Activity%20%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png)
 
 ### 2. Сортировка по автобусам <a name="2"></a>
 При нажатии на данную кнопку предоставляется возможность получить информацию по списку маршрутов автобусов:</a>
