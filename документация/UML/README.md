@@ -11,7 +11,7 @@
   
 ### 1. Диаграмма прецедентов <a name="1"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму:</a>
-![Диаграмма прецедентов](https://github.com/Daetwen/tritpo/blob/master/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/UML/Use%20case/Use%20Case.png)
+![Диаграмма прецедентов](https://github.com/Daetwen/tritpo/blob/master/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/UML/Use%20case/Use%20Case%20.png)
 
 #### 1.1 Актёры <a name="1.2"></a>
 Актёр | Описание
