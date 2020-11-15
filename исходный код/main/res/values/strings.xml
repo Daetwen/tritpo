@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaranovichiBus</string>
+    <string name="tab_text_1">Обновление</string>
+    <string name="tab_text_2">Сортировка по автобусам</string>
+    <string name="tab_text_3">Сортировка по остановкам</string>
+    <string name="button_renewal">Обновить</string>
+    <string name="title_activity_bus1">Список городских маршрутов автобусов</string>
+    <string name="tab_text_4">Не курсирует</string>
+    <string name="tab_text_5">Не курсирует</string>
+</resources>
