@@ -7,7 +7,7 @@
 >
     <TextView
             android:id="@+id/recyclerView_strings_number"
-            style="@style/TextAppearance.AppCompat.Button"
+            style="@style/TextAppearance.AppCompat.Title"
             android:layout_width="match_parent"
             android:layout_height="@dimen/OneLineSize"
             android:background="@color/colorPrimaryDark"
