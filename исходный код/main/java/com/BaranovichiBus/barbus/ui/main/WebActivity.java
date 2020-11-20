@@ -13,23 +13,6 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 public class WebActivity extends AppCompatActivity {
-
-    private class MyWebViewClient extends WebViewClient {
-        @TargetApi(Build.VERSION_CODES.N)
-        @Override
-        public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
-            view.loadUrl(request.getUrl().toString());
-            return true;
-        }
-
-        // Для старых устройств
-        @Override
-        public boolean shouldOverrideUrlLoading(WebView view, String url) {
-            view.loadUrl(url);
-            return true;
-        }
-    }
-
     private WebView webView;
 
     @Override
