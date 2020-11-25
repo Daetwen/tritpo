@@ -1,4 +1,4 @@
-| Tables   |      Are      |  Cool |
+| ID       |      Case Description      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
