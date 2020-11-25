@@ -1,4 +1,4 @@
-| ID       |      Case Description      |  Cool |
+| ID       |      Case Description      |  Scenario/Steps |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
